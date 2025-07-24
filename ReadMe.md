@@ -80,3 +80,13 @@ The following stars have a membership probability of 70% or higher, based on pro
 - **Average Proper Motion RA:** 20.008882978723403
 - **Average Proper Motion DE:** -45.34851063829788
 - **Average Parallax:** 7.308825531914894
+
+## Streamlit App
+
+To launch an interactive visualization of the cluster data, install the dependencies and run:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
